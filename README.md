@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 02. May. 2026
+Last updated: 12. May. 2026
 
 ## Results:
 
@@ -74,6 +74,7 @@ Last updated: 02. May. 2026
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20))  |   78.08   |   48.64   | 2025 | NeurIPS  |
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                 |   78.18   |   58.34   | 2026 |   AAAI   |
 | [PerlAD](https://arxiv.org/abs/2603.14908)                                                                                       |   78.70   |   57.27   | 2026 |   RA-L   |
+| [AutoVLA](https://arxiv.org/abs/2506.13757)                                                                                      |   78.84   |   57.73   | 2025 | NeurIPS  |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                               |   79.10   |   54.40   | 2025 | NeurIPS  |
 | [UniDrive-WM](https://arxiv.org/abs/2601.04453)                                                                                  |   79.22   |   56.36   | 2026 |    -     |
 | [Cot4AD-CoT](https://arxiv.org/abs/2511.22532)                                                                                   |   81.22   |   55.78   | 2025 |    -     |
