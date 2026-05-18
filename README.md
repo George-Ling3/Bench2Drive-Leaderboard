@@ -87,7 +87,6 @@ Last updated: 12. May. 2026
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                       |   86.77   |   69.09   | 2025 |   ICCV   |
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                  |   87.1    |   71.4    | 2025 |    -     |
-| [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                      |   87.34   |   70.00   | 2026 |    -     |
 | [CriticVLA](https://arxiv.org/abs/2604.27366)                                                                                    |   88.02   |   73.33   | 2026 |    -     |
 | [BevAD](https://arxiv.org/abs/2603.15185)                                                                                        |   88.11   |   72.73   | 2026 |   CVPRF  |
 | [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                       |   88.31   |   70.48   | 2026 |    -     |
@@ -95,6 +94,7 @@ Last updated: 12. May. 2026
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                      |   88.42   |   69.03   | 2025 |    -     |
 | [GraphPilot](https://arxiv.org/abs/2511.11266)                                                                                   |   88.89   |   72.73   | 2025 |    -     |
 | [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                   |   89.07   |   73.18   | 2026 |    -     |
+| [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                      |   89.42   |   74.09   | 2026 |   ICML   |
 | [TakeVLA](https://arxiv.org/abs/2603.14972)                                                                                      |   89.72   |   73.73   | 2026 |    -     |
 | [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                     |     91    |     -     | 2026 |    -     |
 | [LinkVLA](https://arxiv.org/abs/2603.01441)                                                                                      |   91.01   |   74.55   | 2026 |    -     |
