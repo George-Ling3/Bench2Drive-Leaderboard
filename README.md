@@ -42,6 +42,7 @@ Last updated: 12. May. 2026
 | [DriveDPO](https://arxiv.org/abs/2509.17940)                                                                             |   62.02   |   30.62   | 2025 | NeurIPS  |
 | [ThinkTwice](https://arxiv.org/abs/2305.06242)                                                                           |   62.44   |   31.23   | 2022 |   CVPR   |
 | [DriveTransformer-L.](https://arxiv.org/abs/2503.07656)                                                                  |   63.46   |   35.01   | 2025 |   ICLR   |
+| [ReasonPlan](https://arxiv.org/abs/2503.07656)                                              |   64.01   |  34.55   | 2025 |   CoRL   |
 | [DriveAdapter](https://arxiv.org/abs/2308.00398)                                                                         |   64.22   |   33.08   | 2023 |   ICCV   |
 | [VeteranAD](https://arxiv.org/abs/2508.11488)                                                                            |   64.22   |   33.85   | 2025 |    -     |
 | [Drive-JEPA](https://arxiv.org/abs/2601.22032)                                                                           |   64.52   |   36.82   | 2026 |    -     |
@@ -49,7 +50,7 @@ Last updated: 12. May. 2026
 | [StuckSolver](https://arxiv.org/abs/2510.26023)                                                                          |   65.23   |   36.32   | 2025 |    -     |
 | [GEMINUS](https://arxiv.org/abs/2507.14456)                                                                              |   65.39   |   37.73   | 2025 |    -     |
 | [HiPro-AD](https://www.mdpi.com/1424-8220/26/1/185)                                                                      |   65.48   |   37.31   | 2025 | Sensors  |
-| [MindDriver]()                                                                                                                     |   65.48   |   39.55   | 2026 |    -     |
+| [MindDriver](https://arxiv.org/abs/2602.21952)                                                                                                                     |   65.48   |   39.55   | 2026 |    -     |A
 | [VDRive](https://arxiv.org/abs/2510.15446)                                                                                       |   66.25   |   50.51   | 2025 |    -     |
 | [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                   |   66.42   |   37.27   | 2026 |   ICLR   |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                         |   66.76   |   52.87   | 2025 |    -     |
