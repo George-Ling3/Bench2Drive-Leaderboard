@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 05. Jun. 2026
+Last updated: 09. Jun. 2026
 
 ## Results:
 
@@ -99,6 +99,7 @@ Last updated: 05. Jun. 2026
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                     |   88.42   |   69.03   | 2025 |    -     |
 | [GraphPilot](https://arxiv.org/abs/2511.11266)                                                                                  |   88.89   |   72.73   | 2025 |    -     |
 | [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                  |   89.07   |   73.18   | 2026 |    -     |
+| [SparseDriveV2](https://arxiv.org/abs/2603.29163)                                                                                  |   89.15   |   70.00   | 2026 |    -     |
 | [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                     |   89.42   |   74.09   | 2026 |   ICML   |
 | [TakeVLA](https://arxiv.org/abs/2603.14972)                                                                                     |   89.72   |   73.73   | 2026 |    -     |
 | [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                    |    91     |     -     | 2026 |    -     |
