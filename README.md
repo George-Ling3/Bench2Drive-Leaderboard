@@ -100,6 +100,7 @@ Last updated: 24. Jun. 2026
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                     |   88.42   |   69.03   | 2025 |    -     |
 | [GraphPilot](https://arxiv.org/abs/2511.11266)                                                                                  |   88.89   |   72.73   | 2025 |    -     |
 | [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                  |   89.07   |   73.18   | 2026 |    -     |
+| [VLADriver-RAG](https://arxiv.org/abs/2605.08133)                                                                                  |   89.12   |   70.42   | 2026 |    -     |
 | [SparseDriveV2](https://arxiv.org/abs/2603.29163)                                                                               |   89.15   |   70.00   | 2026 |    -     |
 | [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                     |   89.42   |   74.09   | 2026 |   ICML   |
 | [TakeVLA](https://arxiv.org/abs/2603.14972)                                                                                     |   89.72   |   73.73   | 2026 |    -     |
