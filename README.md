@@ -95,6 +95,7 @@ Last updated: 24. Jun. 2026
 | [CaAD](https://arxiv.org/abs/2605.13646)                                                                                        |   87.53   |   71.81    | 2026 |    -     |
 | [CriticVLA](https://arxiv.org/abs/2604.27366)                                                                                   |   88.02   |   73.33   | 2026 |    -     |
 | [BevAD](https://arxiv.org/abs/2603.15185)                                                                                       |   88.11   |   72.73   | 2026 |  CVPRF   |
+| [MAPLE](https://arxiv.org/abs/2605.14201)                                                                                       |   88.3   |   70.5   | 2026 |    -     |
 | [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                      |   88.31   |   70.48   | 2026 |    -     |
 | [DynVLA](https://arxiv.org/abs/2603.11041)                                                                                      |   88.34   |   72.73   | 2026 |    -     |
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                     |   88.42   |   69.03   | 2025 |    -     |
