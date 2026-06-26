@@ -79,6 +79,7 @@ Last updated: 24. Jun. 2026
 | [PerlAD](https://arxiv.org/abs/2603.14908)                                                                                      |   78.70   |   57.27   | 2026 |   RA-L   |
 | [UniDriveVLA](https://arxiv.org/abs/2604.02190)                                                                                 |   78.73   |   51.82   | 2026 |    -     |
 | [AutoVLA](https://arxiv.org/abs/2506.13757)                                                                                     |   78.84   |   57.73   | 2025 | NeurIPS  |
+| [VLGA](https://arxiv.org/abs/2606.12396)                                                                                     |   79.08   |   52.73   | 2026 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                              |   79.10   |   54.40   | 2025 | NeurIPS  |
 | [UniDrive-WM](https://arxiv.org/abs/2601.04453)                                                                                 |   79.22   |   56.36   | 2026 |    -     |
 | [Cot4AD-CoT](https://arxiv.org/abs/2511.22532)                                                                                  |   81.22   |   55.78   | 2025 |    -     |
