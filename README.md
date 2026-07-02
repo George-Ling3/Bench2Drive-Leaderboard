@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 24. Jun. 2026
+Last updated: 2. Jul. 2026
 
 ## Results:
 
@@ -82,6 +82,7 @@ Last updated: 24. Jun. 2026
 | [VLGA](https://arxiv.org/abs/2606.12396)                                                                                        |   79.08   |   52.73   | 2026 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                              |   79.10   |   54.40   | 2025 | NeurIPS  |
 | [UniDrive-WM](https://arxiv.org/abs/2601.04453)                                                                                 |   79.22   |   56.36   | 2026 |    -     |
+| [Orion-Lite](https://arxiv.org/abs/2604.08266)                                                                                  |   80.57   |   55.45   | 2026 |  CVPRW   |
 | [Cot4AD-CoT](https://arxiv.org/abs/2511.22532)                                                                                  |   81.22   |   55.78   | 2025 |    -     |
 | [GeRo](https://arxiv.org/abs/2601.11475)                                                                                        |   81.90   |   60.10   | 2026 |    -     |
 | [DMW](https://arxiv.org/abs/2603.25740https://arxiv.org/abs/2603.25740)                                                         |   82.72   |   71.56   | 2026 |   CVPR   |
