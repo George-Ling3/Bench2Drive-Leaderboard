@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 07. Jul. 2026
+Last updated: 07. Aug. 2026
 
 ## Results:
 
@@ -95,6 +95,7 @@ Last updated: 07. Jul. 2026
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                                 |   86.77   |   69.09   | 2025 |   ICCV   |
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                            |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                            |   87.1    |   71.4    | 2025 |    -     |
+| [LCS](https://arxiv.org/abs/2608.00237)                                                                                                    |    87.18   |    71.16   | 2026 |    -     |
 | [UniTeD](https://arxiv.org/abs/2606.25736)                                                                                                 |   87.3    |   70.0    | 2026 |    -     |
 | [CaAD](https://arxiv.org/abs/2605.13646)                                                                                                   |   87.53   |   71.81   | 2026 |    -     |
 | [CriticVLA](https://arxiv.org/abs/2604.27366)                                                                                              |   88.02   |   73.33   | 2026 |    -     |
